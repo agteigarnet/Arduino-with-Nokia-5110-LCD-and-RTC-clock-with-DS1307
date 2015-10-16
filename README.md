@@ -18,7 +18,7 @@ Arduino Libraries needed:
  - Wire (https://www.arduino.cc/en/Reference/Wire)
  - DS1307RTC (https://www.pjrc.com/teensy/td_libs_DS1307RTC.html)
 
-You must, first of all, upload the "TimeRTCSet.pde" example of the Time library, then you can upload my sketch.
+You must, first of all, upload the "TimeRTCSet.pde" example of the Time library (obviously to set the time on DS1307 RTC), then you can upload my sketch.
 Check connections between Arduino and LCD, according to your needs. 
 If unsure, see LCD5110_Graph library docs or tutorials on the Net to see how connect Arduino and Nokia LCD.
 
