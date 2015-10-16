@@ -76,45 +76,10 @@ void digitalClockDisplay(){
             strH = printDigits (hour());
             lcd.print(strH,7,18);
             
-            
-              /*
-              if(hour()<10) {  
-                char bufH[2];  
-                strH = String (hour());
-                strH.toCharArray(bufH,2);      
-                strH = "0" + strH;
-                lcd.print(strH,7,18);
-              }
-                else {  
-                  char bufH[2];  
-                  strH = String (hour());
-                  strH.toCharArray(bufH,2);    
-                  lcd.print(strH,7,18);
-                } 
-              
-              */
- 
                 myBlinkinPeriod();
                 String strM; 
                 strM = printDigits (minute());                
                 lcd.print(strM,47,18);
-  
-             /*             
-              if(minute()<10) {
-                char bufM[2];  
-                strM = String (minute());
-                strM.toCharArray(bufM,2);    
-                strM = "0"+strM;
-                lcd.print(strM,47,18);
-              }
-                else {  
-                  char bufM[2];
-                  String strM;
-                  strM = String (minute ());
-                  strM.toCharArray(bufM,2);
-                  lcd.print(strM,47,18);
-                }
-                */
     
    lcd.update();  // Copy the screen buffer to the screen
 }
