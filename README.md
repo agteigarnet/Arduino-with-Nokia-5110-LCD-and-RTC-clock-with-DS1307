@@ -26,5 +26,5 @@ Feel free to comunicate to me every improvement to script if you think is necess
 I hope you enjoy this little script.
 
 <div align="center">
-<a href="http://wtfpl.net" target"_blank"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"></a>
+<a href="http://wtfpl.net" target="_blank"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"></a>
 </div>
