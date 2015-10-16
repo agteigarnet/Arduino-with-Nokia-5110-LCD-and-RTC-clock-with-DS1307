@@ -1,5 +1,5 @@
 # Arduino-with-Nokia-5110-LCD-and-RTC-clock-with-DS1307
-Simple Arduino sketch to make  a digital clock using Nokia 5110 LCD and DS1307 RTC
+<b>Simple Arduino sketch to make  a digital clock using Nokia 5110 LCD and DS1307 RTC</b>
 
 Inspired by Educ8s.com tutorial, that use a DS1302 RTC module. 
 See his video on Youtube: https://youtu.be/pN59R0eoXUQ
@@ -20,4 +20,6 @@ Other changes compared to the original script:
 Feel free to comunicate to me every improvement to script you think is necessary.
 I hope you enjoy this little script.
 
-<img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png">
+<div align="center">
+<a href="http://wtpl.net" target"_blank"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"></a>
+</div>
