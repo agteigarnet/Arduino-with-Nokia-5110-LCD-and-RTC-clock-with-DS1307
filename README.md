@@ -22,7 +22,7 @@ You must, first of all, upload the "TimeRTCSet.pde" example of the Time library 
 Check connections between Arduino and LCD, according to your needs. 
 If unsure, see LCD5110_Graph library docs or tutorials on the Net to see how connect Arduino and Nokia LCD.
 
-Feel free to comunicate to me every improvement to script you think is necessary.
+Feel free to comunicate to me every improvement to script if you think is necessary, or eventually some bug that you find.
 I hope you enjoy this little script.
 
 <div align="center">
