@@ -36,7 +36,7 @@ void setup() {
 
       setSyncProvider(RTC.get);   // the function to get the time from the RTC
       setSyncInterval(60);    // Set the number of seconds between re-sync
-      setTime(12,30,0,14,1,1970); //  setTime(hr,min,sec,day,month,yr);
+      // setTime(12,30,0,14,1,1970); //  setTime(hr,min,sec,day,month,yr);
                                      // Another way to set the time, useful to test the script even without DS1307
 
       while(timeStatus()== timeNotSet); // wait until the time is set by the sync provider
